@@ -46,4 +46,7 @@ npm run dev
 
 ou acessar pelo [link](https://projeto-de-algoritmos.github.io/Grafos1_arvore_genealogica/)
 
-[Video](https://youtu.be/LunipKV8I60) 
+## Vídeo
+
+[Github](https://github.com/projeto-de-algoritmos/Grafos1_arvore_genealogica/tree/main/assets)
+[Youtube](https://youtu.be/LunipKV8I60) 
